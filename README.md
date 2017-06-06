@@ -298,8 +298,6 @@ tail(kwds, 20)
 ## ukip        -56421.099 0  6319.1029   77370.458
 ```
 
-Blah Blah?
-
 ## Comparison Cloud
 
 To visualise it, we can generate a comparison cloud. In the following chunck, I am selecting all the keywords with p-value equals to or small than 0.05.
